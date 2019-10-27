@@ -138,11 +138,11 @@ h2 {
 }
 
 .profile-img {
-    height: 250px;
-    width: 230px;
     float: left;
     margin: 16px 15px 10px 15px;
     padding: 0 15px 0 15px;
+    width: 220px;
+    height: 250px;
 }
 
 p {
@@ -166,4 +166,18 @@ p {
          float: left;
          text-align: center;
      }
+
+
+  .profile-img {
+    margin: 0 auto;
+    width: 220px;
+    height: 250px;
+  } 
+
+  .image {
+      margin: 15px auto;
+  }
+
+  #caption1, #caption2, #caption3, #caption4, #caption5{
+     left: auto;
   }
