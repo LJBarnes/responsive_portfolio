@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+  }
+html, body{
+    height: 100%;
+}
+
+.container {
+    width: 100%;
+    padding: 0;
+
+}
+
+.col1{
+    background: gray;
+    padding: 25px;
+    
+}
+
+.row{
+    height: 100%;
+}
+
+#one{
+    color: white;
+}
+
+.oldSearches {
+    margin-top: 20px;
+}
+
+.color{
+    background: lightgray;
+    border: solid 1px black;
+    
+}
+
+#backLink {
+    float: right;
+}
+
+.navbar {
+    /* margin-bottom: 30px; */
+    border-bottom: 1px solid darkgray;
+    background:lightgray;
+}
+
+.nav-wrapper {
+    width: 100%;
+}
+
+h1 {
+    
+    /* color:black;
+    background: #4aaaa5;
+    width: 300px;
+    text-align: center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif; */
+}
+
+/* .navbar-name {
+    margin: 0 auto;
+} */
+
+/* .wrapper{
+    float: left;
+} */

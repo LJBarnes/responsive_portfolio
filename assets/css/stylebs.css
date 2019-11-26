@@ -3,6 +3,10 @@ html, body {
     margin:0;
 }
 
+a {
+    color: white;
+}
+
 body {
     background-image: url("../images/tiny-squares.png");
 }
@@ -160,7 +164,7 @@ p {
 
  
 
-  @media (max-width: 600px) {
+@media (max-width: 600px) {
     
      p {
          float: left;
@@ -181,3 +185,4 @@ p {
   #caption1, #caption2, #caption3, #caption4, #caption5{
      left: auto;
   }
+}
